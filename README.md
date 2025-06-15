@@ -7,7 +7,7 @@
 🌱 I’m currently learning <strong>MERN stack, TypeScript, and AI integrations</strong><br>
 💬 Ask me about <strong>Java DSA, Machine Learning, and Web Development</strong><br>
 📫 Reach me at: <strong>vantharamsuryagayathri.22.cse@anits.edu.in</strong><br>
-📄 Resume: <a href="#">Click to view</a> (or upload link)
+
 </p>
 
 ---
